@@ -46,13 +46,7 @@
     "prettier": "^3.5.3",
     "protobufjs-cli": "^1.1.3",
     "release-it": "^15.10.3",
-    "sharp": "*",
-    "ts-jest": "^29.4.0",
-    "tsc-esm-fix": "^3.1.2",
-    "tsx": "^4.20.3",
-    "typedoc": "^0.27.9",
-    "typedoc-plugin-markdown": "4.4.2",
-    "typescript": "^5.8.2"
+    "sharp": "*"
   },
   "peerDependencies": {
     "link-preview-js": "^3.0.0"
