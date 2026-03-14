@@ -2,8 +2,8 @@
 
 This project uses **Baileys 7.0.1-rc.9-carbon**, a custom modified build based directly on the latest upstream source from the official Baileys GitHub repository.
 
-This version has been specifically adapted and optimized to work correctly with the **Nami bot**.  
-Due to these internal changes, stability and compatibility are only guaranteed within Nami's ecosystem.
+This version has been specifically adapted and optimized to work correctly with the **Nezu bot**.  
+Due to these internal changes, stability and compatibility are only guaranteed within Nezu's ecosystem.
 
 If you decide to use this build in other projects, any errors, incompatibilities, or unexpected behavior will be the responsibility of the developer implementing it.
 
@@ -17,10 +17,10 @@ This custom build includes several internal adjustments such as:
 
 - Direct mutex handling improvements
 - Internal stability adjustments
-- Compatibility patches for Nami
+- Compatibility patches for Nezu
 - Structural adjustments required by the bot architecture
 
-These changes were made strictly to ensure reliable behavior inside Nami and may not behave the same way in other environments.
+These changes were made strictly to ensure reliable behavior inside Nezu and may not behave the same way in other environments.
 
 ---
 
@@ -40,7 +40,7 @@ This project only modifies behavior for integration purposes and does not claim 
 
 ---
 
-## 📍 About older Nami adapted builds
+## 📍 About older NEZU adapted builds
 
 If you are still using older adapted Baileys versions (**6.X branch**), you should be aware that these builds are now considered **deprecated** and are **no longer maintained or updated**.
 
@@ -131,5 +131,5 @@ start()
 
 ## 📍 Final note
 
-This build (**7.0.1-rc.9-carbon**) exists solely to ensure proper operation inside **Nami**.  
+This build (**7.0.1-rc.9-carbon**) exists solely to ensure proper operation inside **Nezu**.  
 If you need different behavior, you should modify your own fork according to your project's needs.
